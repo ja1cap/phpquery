@@ -1,0 +1,10 @@
+{
+    "name" : "ja1cap/php-query",
+    "homepage": "https://github.com/ja1cap/phpquery",
+    "type": "library",
+    "license": "GPL 2.1",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "minimum-stability": "beta"
+}
